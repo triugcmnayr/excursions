@@ -1,0 +1,49 @@
+html
+{
+  background-color: black
+}
+
+.header
+{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.headerlink
+{
+  font-family: Verdana;
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+.phone
+{
+  text-align: center;
+  background-color: center;
+}
+
+.middletext
+{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.submiddletext
+{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.picture
+{
+  text-align: center;
+}
